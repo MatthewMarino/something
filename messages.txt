@@ -1,3 +1,1 @@
-helk
-helk2
-"there are * planets in the universe"
+There are 8 planets in the solar system.
