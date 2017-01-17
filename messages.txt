@@ -1,2 +1,3 @@
 helk
 helk2
+"there are * planets in the universe"
